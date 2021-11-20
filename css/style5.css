@@ -1,0 +1,30 @@
+body{
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+ul{
+  text-align: center;
+  list-style: none;
+  font-size: 0;
+  margin: 0;
+  padding: 0;
+}
+li{
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 16pt;
+  height: 20vh;
+  width: 20vh;
+  line-height: 20vh;
+}
+.a{
+  background: #ffcf73;
+  color: #6b8fd4;
+  position: relative;
+
+}
+.b{
+  background: #6b8fd4;
+  color: #ffcf73;
+}
